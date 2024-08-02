@@ -1,0 +1,35 @@
+.main1{
+    background-color: #333;
+    margin-bottom: 0%;
+    margin-top: 10px;
+}
+.foot{
+    background-color: black;
+    color: aliceblue;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav1{
+   
+}
+.img1{
+    margin: 20px;
+    border-radius: 50%;
+}
+.ul1{
+    display: flex;
+    justify-content: center;
+    gap:30px;
+    color: azure;
+    list-style-type: none;
+}
+
+.logos1{
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:5px;
+}

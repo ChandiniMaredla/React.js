@@ -1,0 +1,100 @@
+
+/* .main{
+margin: 50px;
+background-color: rgb(65, 33, 65);
+}
+.bg{
+    margin: 20px; */
+    /* background-color: rgb(14, 14, 39); */
+    /* color: white;
+    display: flex;
+    justify-content: center;
+
+    padding: 10px;
+}
+.nav{
+    color: white;
+    height: 50px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    border: 1px solid rgb(211, 204, 204);
+    
+}
+.list{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none; 
+}
+.list li{
+    margin-left: 30px;
+}
+.btn{
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+} */
+
+.main {
+    margin: 50px;
+    margin-top: 0;
+    background-color: rgb(243, 229, 243);
+    display: flex;
+    flex-direction: column;
+
+}
+
+.bg {
+    margin: 20px;
+    /* background-color: rgb(14, 14, 39); */
+    color: rgb(32, 28, 28);
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.nav {
+    color: white;
+    height: 50px;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center; /* Center items vertically */
+    justify-content: space-between;
+    padding: 0 30px; /* Adjust padding to control height */
+    border: 1px solid rgb(211, 204, 204);
+    background-color: #333; /* Add background color for visibility */
+}
+
+.list {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.list li {
+    margin-left: 30px;
+}
+
+.btn {
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    background-color: #555; /* Add a background color */
+    color: white; /* Ensure the text is visible */
+    cursor: pointer; /* Add a pointer cursor for better UX */
+}
+
+.left{
+    display: flex;
+    justify-content: space-between;
+   margin-left: 20px;
+    width: 250px;
+}
+.img{
+    margin-left: 100px;
+}

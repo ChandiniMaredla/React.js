@@ -1,0 +1,13 @@
+p{
+font-size: 90%    
+}
+i{
+    width: 100px;
+}
+.logos{
+    display: flex;
+    justify-content: center;
+   width: 250px;
+   height: 70px;
+   margin-top: 20px;
+}
